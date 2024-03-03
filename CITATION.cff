@@ -13,8 +13,8 @@ preferred-citation:
   authors:
   - family-names: "Kline"
     given-names: "Jeffery"
-  doi: "10.0000/00000"
-  journal: "Journal Title"
+  doi: "10.1016/j.dam.2019.02.042"
+  journal: "Discrete Applied Mathematics"
   month: 9
   start: 1 # First page number
   end: 10 # Last page number
