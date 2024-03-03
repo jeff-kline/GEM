@@ -12,6 +12,20 @@ The published reference is
    Volume 265, 31 July 2019, Pages 128-141.  
    https://doi.org/10.1016/j.dam.2019.02.042
 
+```
+@article{Kline_Properties_of_the_2019,
+author = {Kline, Jeffery},
+doi = {10.1016/j.dam.2019.02.042},
+journal = {Discrete Applied Mathematics},
+month = jul,
+number = {1},
+pages = {128--141},
+title = {{Properties of the d-dimensional earth mover’s problem}},
+volume = {265},
+year = {2019}
+}
+```
+
 # Examples
 
 ## Shift
