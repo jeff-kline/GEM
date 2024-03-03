@@ -1,6 +1,8 @@
 # Earth Movers Distance
 
-This repository contains the reference implementation of primal and dual solutions as described in my paper, "Properties of the d-dimensional earth mover’s problem".
+This repository contains the reference implementation of several algorithms that are described in my paper, "Properties of the d-dimensional earth mover’s problem". 
+
+The optimal value of the objective function of the $d$-dimensional earth mover’s problem can be viewed as a real-valued functional $\phi$ that is defined on normalized and finite multisets. The paper shows that  $\phi$ possesses a variety of useful properties: it is homogeneous, translation invariant, it has a monotonicity property of the form  implies  and  is Minkowski additive, i.e., . We also show that for admissible , solutions to the primal and dual linear programs that define  may be generated simultaneously using a single-phase greedy algorithm and that solutions to the dual reflect the geometry of .
 
 This code is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; 
 either version 3 of the License, or (at your option) any later version. https://www.gnu.org/licenses/gpl-3.0.html
