@@ -15,10 +15,10 @@ preferred-citation:
     given-names: "Jeffery"
   doi: "10.1016/j.dam.2019.02.042"
   journal: "Discrete Applied Mathematics"
-  month: 9
-  start: 1 # First page number
-  end: 10 # Last page number
+  month: 7
+  start: 128 # First page number
+  end: 141 # Last page number
   title: "My awesome research software"
   issue: 1
-  volume: 1
-  year: 2021
+  volume: 265
+  year: 2019
