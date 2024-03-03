@@ -11,7 +11,7 @@ url: "https://github.com/github-linguist/linguist"
 preferred-citation:
   type: article
   - family-names: "Kline"
-  given-names: "Jeffery"
+    given-names: "Jeffery"
   doi: 10.1016/j.dam.2019.02.042
   journal: "Discrete Applied Mathematics"
   month: 7
