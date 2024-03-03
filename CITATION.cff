@@ -7,12 +7,12 @@ title: "Properties of the d-dimensional earth mover’s problem"
 version: 1.0.0
 doi: 10.1016/j.dam.2019.02.042
 date-released: 2019-07-31
-url: "https://github.com/github-linguist/linguist"
+url: "https://github.com/jeff-kline/GEM/"
 preferred-citation:
   type: article
   - family-names: "Kline"
     given-names: "Jeffery"
-  doi: 10.1016/j.dam.2019.02.042
+  doi: "10.1016/j.dam.2019.02.042"
   journal: "Discrete Applied Mathematics"
   month: 7
   start: 128 # First page number
