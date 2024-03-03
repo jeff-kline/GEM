@@ -9,8 +9,8 @@ doi: 10.1016/j.dam.2019.02.042
 date-released: 2019-07-31
 url: "https://github.com/github-linguist/linguist"
 preferred-citation:
-  type: article
-  - family-names: "Kline"
+type: article
+- family-names: "Kline"
     given-names: "Jeffery"
   doi: 10.1016/j.dam.2019.02.042
   journal: "Discrete Applied Mathematics"
